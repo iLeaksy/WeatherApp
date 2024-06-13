@@ -1,4 +1,4 @@
-const weatherApiKey = '7f3773b66969213410fe5cd2895d427a';
+const weatherApiKey = 'INSERT-YOU-OWN-API-KEY';
 const weatherApiUrl = 'https://api.openweathermap.org/data/2.5/weather';
 
 let retryDelay = 1000; // Initial retry delay in milliseconds
