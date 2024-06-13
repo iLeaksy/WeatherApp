@@ -31,6 +31,11 @@
 2. Click on "Get Weather" to fetch and display weather information for the entered city.
 3. The app will display the current weather conditions, recommendations for activities based on weather, and an interactive map.
 
+## Screenshots
+
+![Screenshot 1](screenshots/MainScreen.png)
+![Screenshot 2](screenshots/WhenFound.png)
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
@@ -38,4 +43,3 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ## Contact
 
 For support or inquiries, contact Kristijan Stojmanovski at [ttv.leaksydesigns@gmail.com](mailto:ttv.leaksydesigns@gmail.com).
-
